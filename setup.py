@@ -8,5 +8,5 @@ setuptools.setup(
     name="rh_config",
     packages=["rh_config"],
     url="https://github.com/Rhoana/rh_config",
-    version="0.1.0"
+    version="1.0.0"
 )
