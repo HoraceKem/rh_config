@@ -21,5 +21,5 @@ $ cd rh_config
 $ pip install -r requirements.txt
 $ pip install --editable .
 ```
-** Tips:
+** Tips: **
 Create a conda environment before test the package.
