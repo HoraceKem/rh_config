@@ -1,1 +1,1 @@
-pyaml==15.8.2
+pyaml
