@@ -17,7 +17,7 @@ applications in this file. Access the loaded configuration like this:
 ## Installation
 ```
 $ git clone git@github.com:HoraceKem/rh_config.git
-$ cd rh_config
+$ cd rh_config/
 $ pip install -r requirements.txt
 $ pip install --editable .
 ```
